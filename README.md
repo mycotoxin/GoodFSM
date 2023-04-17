@@ -1,0 +1,2 @@
+# GoodFSM
+Simple FSM framework
